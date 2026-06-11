@@ -2,105 +2,105 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260619
-DESCRIPTION:Dernier épisode (12) théorique calculé le 19/06/2026.
-SUMMARY:The Angel Next Door Spoils Me Rotten2
-UID:50b01b5c-e705-4ab2-b654-90161286b976@50b0.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260630
-DESCRIPTION:Dernier épisode (13) théorique calculé le 30/06/2026.
-SUMMARY:MARRIAGETOXIN
-UID:db7c7f56-650e-48cd-9c10-de3dbce8003b@db7c.org
+DTSTART;VALUE=DATE:20260625
+DESCRIPTION:Dernier épisode (12) théorique calculé le 25/06/2026.
+SUMMARY:The Warrior Princess and the Barbaric King
+UID:234fe14c-0093-4cad-917d-159718a96dd8@234f.org
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260622
 DESCRIPTION:Dernier épisode (12) théorique calculé le 22/06/2026.
 SUMMARY:The Klutzy Class Monitor and the Girl with the Short Skirt
-UID:d44487fe-f712-48b4-951f-1230f8ecfed3@d444.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260622
-DESCRIPTION:Dernier épisode (13) théorique calculé le 22/06/2026.
-SUMMARY:Witch Hat Atelier
-UID:c319cd8c-b68d-4369-951b-0eb9e49f9b27@c319.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260626
-DESCRIPTION:Dernier épisode (12) théorique calculé le 26/06/2026.
-SUMMARY:Botan Kamiina Fully Blossoms When Drunk
-UID:e251dfd4-2a84-44c0-9fa6-fb17ceea57ae@e251.org
+UID:b6f8b1eb-3a8f-4a47-b1e3-7046e540aeb5@b6f8.org
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260628
 DESCRIPTION:Dernier épisode (12) théorique calculé le 28/06/2026.
 SUMMARY:Wistoria: Wand and Sword Season 2
-UID:18e85d19-63d1-4449-a310-b57670c43843@18e8.org
+UID:ec80ee34-0623-4e1e-a390-60819d4cb936@ec80.org
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260624
 DESCRIPTION:Dernier épisode (12) théorique calculé le 24/06/2026.
 SUMMARY:Gals Can't Be Kind to Otaku!?
-UID:76b1de68-3d36-4238-9602-20be5d2b6ce6@76b1.org
+UID:df563f99-413b-4a02-8d0d-b6c7e0a6cc37@df56.org
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260622
-DESCRIPTION:Dernier épisode (12) théorique calculé le 22/06/2026.
-SUMMARY:Farming Life in Another World 2
-UID:3ea5fbd2-4457-4c4e-9fb4-3ef70fa61165@3ea5.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260623
-DESCRIPTION:Dernier épisode (12) théorique calculé le 23/06/2026.
-SUMMARY:I Made Friends with the Second Prettiest Girl in My Class
-UID:ed09cabf-a484-4646-a987-b2b0b68ae9ad@ed09.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260624
-DESCRIPTION:Dernier épisode (12) théorique calculé le 24/06/2026.
-SUMMARY:Reborn as a Vending Machine\, I Now Wander the Dungeon Season 3
-UID:b0e70b55-9c7a-4b17-aaa5-14339b199b85@b0e7.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260625
-DESCRIPTION:Dernier épisode (12) théorique calculé le 25/06/2026.
-SUMMARY:The Warrior Princess and the Barbaric King
-UID:0f19394b-9861-4a29-8f4b-379f475c3d7f@0f19.org
+DESCRIPTION:Dernier épisode (13) théorique calculé le 22/06/2026.
+SUMMARY:Witch Hat Atelier
+UID:52ea6556-55f2-4efa-b0b7-c9c26e19ae68@52ea.org
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260620
 DESCRIPTION:Dernier épisode (12) théorique calculé le 20/06/2026.
 SUMMARY:Kusunoki's Garden of Gods
-UID:a4478c24-3650-47ae-8b21-89cae78f7085@a447.org
+UID:221a334b-9e06-4322-a6fe-5bcb0792638a@221a.org
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260621
-DESCRIPTION:Dernier épisode (12) théorique calculé le 21/06/2026.
-SUMMARY:NIPPON SANGOKU: The Three Nations of the Crimson Sun
-UID:e041791b-02a5-42d9-a8d8-02feaebe9d6a@e041.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260620
-DESCRIPTION:Dernier épisode (12) théorique calculé le 20/06/2026.
-SUMMARY:Mistress Kanan is Devilishly Easy
-UID:f592b065-979e-48ff-b49a-c74013c4fb4c@f592.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260617
-DESCRIPTION:Dernier épisode (12) théorique calculé le 17/06/2026.
-SUMMARY:Always a Catch!
-UID:253e4ea5-0896-4ef7-bfb2-cd85e91c7976@253e.org
+DTSTART;VALUE=DATE:20260622
+DESCRIPTION:Dernier épisode (12) théorique calculé le 22/06/2026.
+SUMMARY:Farming Life in Another World 2
+UID:ee1b272f-6c7f-4ba9-afc1-f6b318748f21@ee1b.org
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260623
 DESCRIPTION:Dernier épisode (12) théorique calculé le 23/06/2026.
 SUMMARY:The Most Heretical Last Boss Queen: From Villainess to Savior Season 2
-UID:42bc843b-f8cd-41eb-aa83-4f30a7425509@42bc.org
+UID:1b9df84a-3aa3-4522-8074-2086f534bf10@1b9d.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260617
+DESCRIPTION:Dernier épisode (12) théorique calculé le 17/06/2026.
+SUMMARY:Always a Catch!
+UID:d24bee26-b560-4480-a262-057d55a69d2a@d24b.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260624
+DESCRIPTION:Dernier épisode (12) théorique calculé le 24/06/2026.
+SUMMARY:Reborn as a Vending Machine\, I Now Wander the Dungeon Season 3
+UID:355fa951-e626-4c1b-a5f9-09b7d34353b3@355f.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260619
+DESCRIPTION:Dernier épisode (12) théorique calculé le 19/06/2026.
+SUMMARY:The Angel Next Door Spoils Me Rotten2
+UID:adc1fe17-eb83-4be4-a7b2-41dbcd40ba96@adc1.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260626
+DESCRIPTION:Dernier épisode (12) théorique calculé le 26/06/2026.
+SUMMARY:Botan Kamiina Fully Blossoms When Drunk
+UID:89c0b748-3053-47c7-bef0-26de988b2646@89c0.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260630
+DESCRIPTION:Dernier épisode (13) théorique calculé le 30/06/2026.
+SUMMARY:MARRIAGETOXIN
+UID:54f98bdf-bddf-47dd-bde6-06c2e40813f7@54f9.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260620
+DESCRIPTION:Dernier épisode (12) théorique calculé le 20/06/2026.
+SUMMARY:Mistress Kanan is Devilishly Easy
+UID:35533159-785b-41d1-8fe4-011f90d03b8b@3553.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260621
+DESCRIPTION:Dernier épisode (12) théorique calculé le 21/06/2026.
+SUMMARY:NIPPON SANGOKU: The Three Nations of the Crimson Sun
+UID:358c1d85-a170-492e-89d5-ef4a06c4ad61@358c.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260623
+DESCRIPTION:Dernier épisode (12) théorique calculé le 23/06/2026.
+SUMMARY:I Made Friends with the Second Prettiest Girl in My Class
+UID:a7a1452d-ebdd-481b-88f0-8377a3cd4438@a7a1.org
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260619
 DESCRIPTION:Dernier épisode (12) théorique calculé le 19/06/2026.
 SUMMARY:An Observation Log of My Fiancée Who Calls Herself a Villainess
-UID:76b095c9-989f-4007-a999-0f951f0c6a43@76b0.org
+UID:3b02569a-8a01-4e25-83b7-20b327f5b652@3b02.org
 END:VEVENT
 END:VCALENDAR
