@@ -2,99 +2,99 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260623
-DESCRIPTION:Dernier épisode (12) théorique calculé le 23/06/2026.
-SUMMARY:The Most Heretical Last Boss Queen: From Villainess to Savior Season 2
-UID:fd390c74-f6a3-4a89-9d91-3f0f006f92e3@fd39.org
+DTSTART;VALUE=DATE:20260622
+DESCRIPTION:Dernier épisode (12) théorique calculé le 22/06/2026.
+SUMMARY:The Klutzy Class Monitor and the Girl with the Short Skirt
+UID:23be2059-b9db-4916-a6c0-bc3f14aa4574@23be.org
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260624
 DESCRIPTION:Dernier épisode (12) théorique calculé le 24/06/2026.
 SUMMARY:Reborn as a Vending Machine\, I Now Wander the Dungeon Season 3
-UID:bd295654-38ed-417d-9b32-44697998594d@bd29.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260622
-DESCRIPTION:Dernier épisode (12) théorique calculé le 22/06/2026.
-SUMMARY:The Klutzy Class Monitor and the Girl with the Short Skirt
-UID:99be76b3-7a4b-4cb9-a66e-2a3aed035acc@99be.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260619
-DESCRIPTION:Dernier épisode (12) théorique calculé le 19/06/2026.
-SUMMARY:The Angel Next Door Spoils Me Rotten2
-UID:529fc7aa-0373-499f-a375-8b1ff39c7dc9@529f.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260625
-DESCRIPTION:Dernier épisode (12) théorique calculé le 25/06/2026.
-SUMMARY:The Warrior Princess and the Barbaric King
-UID:f949aac5-c567-48ab-8757-bcbeb37716cd@f949.org
+UID:981ba51a-042f-47bd-9e7f-8efe84a8da1e@981b.org
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260624
 DESCRIPTION:Dernier épisode (12) théorique calculé le 24/06/2026.
 SUMMARY:Gals Can't Be Kind to Otaku!?
-UID:b4710569-fa75-49f3-81d7-e57ef3b396bc@b471.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260623
-DESCRIPTION:Dernier épisode (12) théorique calculé le 23/06/2026.
-SUMMARY:I Made Friends with the Second Prettiest Girl in My Class
-UID:33d24b09-5f69-4924-bd6e-18a9f4dd6c10@33d2.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260626
-DESCRIPTION:Dernier épisode (12) théorique calculé le 26/06/2026.
-SUMMARY:Botan Kamiina Fully Blossoms When Drunk
-UID:55fb6aad-dacc-4f35-a2fb-55ad78c2671b@55fb.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260622
-DESCRIPTION:Dernier épisode (13) théorique calculé le 22/06/2026.
-SUMMARY:Witch Hat Atelier
-UID:33fa9f4c-cc90-4dbc-bd95-3559aae3bf38@33fa.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260620
-DESCRIPTION:Dernier épisode (12) théorique calculé le 20/06/2026.
-SUMMARY:Kusunoki's Garden of Gods
-UID:35bf8eb6-a820-4572-b555-8c7cc10e2f3d@35bf.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260630
-DESCRIPTION:Dernier épisode (13) théorique calculé le 30/06/2026.
-SUMMARY:MARRIAGETOXIN
-UID:e638ef25-0de5-4edd-9891-6557903524ea@e638.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260620
-DESCRIPTION:Dernier épisode (12) théorique calculé le 20/06/2026.
-SUMMARY:Mistress Kanan is Devilishly Easy
-UID:5dbcbf4d-b5ff-4eea-a63f-fabd3c4ba043@5dbc.org
+UID:0f81195a-8579-4482-982d-2d552498d9f5@0f81.org
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260628
 DESCRIPTION:Dernier épisode (12) théorique calculé le 28/06/2026.
 SUMMARY:Wistoria: Wand and Sword Season 2
-UID:db05abe0-b56c-49ba-b346-d097ca892a7b@db05.org
+UID:469156a3-667d-446a-aeca-f8a125e89cc5@4691.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260623
+DESCRIPTION:Dernier épisode (12) théorique calculé le 23/06/2026.
+SUMMARY:The Most Heretical Last Boss Queen: From Villainess to Savior Season 2
+UID:ecf2ade0-49b4-4104-99af-2feb269368cc@ecf2.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260626
+DESCRIPTION:Dernier épisode (12) théorique calculé le 26/06/2026.
+SUMMARY:Botan Kamiina Fully Blossoms When Drunk
+UID:a7839271-44d3-4ecf-ba1c-92dfbfadb8b0@a783.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260623
+DESCRIPTION:Dernier épisode (12) théorique calculé le 23/06/2026.
+SUMMARY:I Made Friends with the Second Prettiest Girl in My Class
+UID:ae85dca9-4745-42e7-b12c-cb4b328551de@ae85.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260620
+DESCRIPTION:Dernier épisode (12) théorique calculé le 20/06/2026.
+SUMMARY:Kusunoki's Garden of Gods
+UID:de9ac45f-ee29-4675-bfbc-0cfa4606d65e@de9a.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260619
+DESCRIPTION:Dernier épisode (12) théorique calculé le 19/06/2026.
+SUMMARY:The Angel Next Door Spoils Me Rotten2
+UID:b55510e7-5961-47a8-a42e-42203c048e4d@b555.org
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260622
 DESCRIPTION:Dernier épisode (12) théorique calculé le 22/06/2026.
 SUMMARY:Farming Life in Another World 2
-UID:e7270255-bd0e-44d0-9ba9-e3ecc6f6dad3@e727.org
+UID:b5a91477-ff08-4504-945b-1c22411d0f2e@b5a9.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260622
+DESCRIPTION:Dernier épisode (13) théorique calculé le 22/06/2026.
+SUMMARY:Witch Hat Atelier
+UID:ae481f40-f0eb-4fe6-9c3b-03d2c9e01a23@ae48.org
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260619
 DESCRIPTION:Dernier épisode (12) théorique calculé le 19/06/2026.
 SUMMARY:An Observation Log of My Fiancée Who Calls Herself a Villainess
-UID:6c38a208-4747-40ff-b508-dd15c873263f@6c38.org
+UID:9e1857cb-9b4d-4da8-a7fd-05294e327970@9e18.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260620
+DESCRIPTION:Dernier épisode (12) théorique calculé le 20/06/2026.
+SUMMARY:Mistress Kanan is Devilishly Easy
+UID:165c81cc-88a7-4b2b-9058-18df347a21e2@165c.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260630
+DESCRIPTION:Dernier épisode (13) théorique calculé le 30/06/2026.
+SUMMARY:MARRIAGETOXIN
+UID:d38e21fc-5734-40b1-a8ee-7a5a553dc031@d38e.org
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260621
 DESCRIPTION:Dernier épisode (12) théorique calculé le 21/06/2026.
 SUMMARY:NIPPON SANGOKU: The Three Nations of the Crimson Sun
-UID:6e96472e-4b8d-4844-b68c-00a8c86ce6d4@6e96.org
+UID:ac3b6a56-02d3-47f1-9acd-d6136b44092c@ac3b.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260625
+DESCRIPTION:Dernier épisode (12) théorique calculé le 25/06/2026.
+SUMMARY:The Warrior Princess and the Barbaric King
+UID:f7637cb5-6d54-46ce-a8d7-b9829e4c4b33@f763.org
 END:VEVENT
 END:VCALENDAR
