@@ -2,75 +2,69 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260626
-DESCRIPTION:Dernier épisode (12) théorique calculé le 26/06/2026.
-SUMMARY:Botan Kamiina Fully Blossoms When Drunk
-UID:d62a6ba8-240c-4590-a856-3714da944692@d62a.org
+DTSTART;VALUE=DATE:20260622
+DESCRIPTION:Dernier épisode (13) théorique calculé le 22/06/2026.
+SUMMARY:Witch Hat Atelier
+UID:7f138a2e-868c-4c9d-901c-93928adcf14f@7f13.org
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260623
 DESCRIPTION:Dernier épisode (12) théorique calculé le 23/06/2026.
 SUMMARY:The Most Heretical Last Boss Queen: From Villainess to Savior Season 2
-UID:9cb9c6d4-a2ac-4791-a9ab-7fe3aa3c58f4@9cb9.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260630
-DESCRIPTION:Dernier épisode (13) théorique calculé le 30/06/2026.
-SUMMARY:MARRIAGETOXIN
-UID:4077a8c7-c593-4d24-a7e2-853e7d73547a@4077.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260621
-DESCRIPTION:Dernier épisode (12) théorique calculé le 21/06/2026.
-SUMMARY:NIPPON SANGOKU: The Three Nations of the Crimson Sun
-UID:c781a6e9-3ca3-49a7-9ebd-4383ea6b586d@c781.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260622
-DESCRIPTION:Dernier épisode (12) théorique calculé le 22/06/2026.
-SUMMARY:The Klutzy Class Monitor and the Girl with the Short Skirt
-UID:f112450a-f144-42d1-9782-335225f64e65@f112.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260625
-DESCRIPTION:Dernier épisode (12) théorique calculé le 25/06/2026.
-SUMMARY:The Warrior Princess and the Barbaric King
-UID:ed3f031e-3792-4d2a-96e7-48efed6c0c43@ed3f.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260623
-DESCRIPTION:Dernier épisode (12) théorique calculé le 23/06/2026.
-SUMMARY:I Made Friends with the Second Prettiest Girl in My Class
-UID:6b855d05-8204-44d9-a6ac-f79a2569f2a1@6b85.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260622
-DESCRIPTION:Dernier épisode (12) théorique calculé le 22/06/2026.
-SUMMARY:Farming Life in Another World 2
-UID:28d3b440-8722-48a4-879d-ab8657e614bb@28d3.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260622
-DESCRIPTION:Dernier épisode (13) théorique calculé le 22/06/2026.
-SUMMARY:Witch Hat Atelier
-UID:af473e20-ef8d-4ba3-8c8a-5aed38d7b549@af47.org
+UID:40bfc293-e918-41d2-83a8-79c3062637a4@40bf.org
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260624
 DESCRIPTION:Dernier épisode (12) théorique calculé le 24/06/2026.
 SUMMARY:Gals Can't Be Kind to Otaku!?
-UID:c5aeb252-63c8-4530-844c-231977ed247b@c5ae.org
+UID:288ac474-ae37-45b6-b855-47acd7309cc8@288a.org
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260628
-DESCRIPTION:Dernier épisode (12) théorique calculé le 28/06/2026.
-SUMMARY:Wistoria: Wand and Sword Season 2
-UID:8893c075-5431-4af4-bd1e-02970de15fe3@8893.org
+DTSTART;VALUE=DATE:20260630
+DESCRIPTION:Dernier épisode (13) théorique calculé le 30/06/2026.
+SUMMARY:MARRIAGETOXIN
+UID:534b6b2a-bcaf-4fd0-83d1-388e965ac345@534b.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260622
+DESCRIPTION:Dernier épisode (12) théorique calculé le 22/06/2026.
+SUMMARY:Farming Life in Another World 2
+UID:ea71cf0f-712b-4dd1-b03d-ae8bb6a87c1b@ea71.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260623
+DESCRIPTION:Dernier épisode (12) théorique calculé le 23/06/2026.
+SUMMARY:I Made Friends with the Second Prettiest Girl in My Class
+UID:8f4a8ce8-fabb-4dec-9b9a-33a97770b64b@8f4a.org
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260624
 DESCRIPTION:Dernier épisode (12) théorique calculé le 24/06/2026.
 SUMMARY:Reborn as a Vending Machine\, I Now Wander the Dungeon Season 3
-UID:f677815c-04e4-4878-aa02-7b6b85ff2729@f677.org
+UID:7b597ad1-8647-4700-ab29-bca5c4bf4284@7b59.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260626
+DESCRIPTION:Dernier épisode (12) théorique calculé le 26/06/2026.
+SUMMARY:Botan Kamiina Fully Blossoms When Drunk
+UID:709bb064-9e39-4cae-b023-953e1ae2040f@709b.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260622
+DESCRIPTION:Dernier épisode (12) théorique calculé le 22/06/2026.
+SUMMARY:The Klutzy Class Monitor and the Girl with the Short Skirt
+UID:8c8ac2c8-3316-453b-8cfa-ed54b5b14cec@8c8a.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260628
+DESCRIPTION:Dernier épisode (12) théorique calculé le 28/06/2026.
+SUMMARY:Wistoria: Wand and Sword Season 2
+UID:af580a83-df28-4ea8-a9f5-ea921d14ae46@af58.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260625
+DESCRIPTION:Dernier épisode (12) théorique calculé le 25/06/2026.
+SUMMARY:The Warrior Princess and the Barbaric King
+UID:ba4d143c-40ba-4440-91e8-1f8723567018@ba4d.org
 END:VEVENT
 END:VCALENDAR
