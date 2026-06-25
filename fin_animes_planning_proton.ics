@@ -5,36 +5,24 @@ BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260625
 DESCRIPTION:Dernier épisode (12) théorique calculé le 25/06/2026.
 SUMMARY:The Warrior Princess and the Barbaric King
-UID:19281f42-7aee-4a5a-add0-5cfb4a9c6732@1928.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260624
-DESCRIPTION:Dernier épisode (12) théorique calculé le 24/06/2026.
-SUMMARY:Gals Can't Be Kind to Otaku!?
-UID:1d61efa2-f872-4966-b127-e43845a73c9d@1d61.org
+UID:18552c16-f779-4dfc-8da2-64406042e5af@1855.org
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260628
 DESCRIPTION:Dernier épisode (12) théorique calculé le 28/06/2026.
 SUMMARY:Wistoria: Wand and Sword Season 2
-UID:0e5bf6b6-4feb-422d-9880-0d4bb3593292@0e5b.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260630
-DESCRIPTION:Dernier épisode (13) théorique calculé le 30/06/2026.
-SUMMARY:MARRIAGETOXIN
-UID:7bdd5f59-2c99-46f1-aa19-f60d6d3c9dd6@7bdd.org
+UID:9a7ecf35-6d81-472f-824a-f5ec5d6a5b14@9a7e.org
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260626
 DESCRIPTION:Dernier épisode (12) théorique calculé le 26/06/2026.
 SUMMARY:Botan Kamiina Fully Blossoms When Drunk
-UID:26d75228-0c7c-490f-8b06-2acb0ef141a5@26d7.org
+UID:31d28f82-e64d-4219-a402-75490da66070@31d2.org
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260624
-DESCRIPTION:Dernier épisode (12) théorique calculé le 24/06/2026.
-SUMMARY:Reborn as a Vending Machine\, I Now Wander the Dungeon Season 3
-UID:5ee10dcc-2a50-469d-98bf-36862039a94a@5ee1.org
+DTSTART;VALUE=DATE:20260630
+DESCRIPTION:Dernier épisode (13) théorique calculé le 30/06/2026.
+SUMMARY:MARRIAGETOXIN
+UID:20e8626e-9b42-4450-98cb-696000a01a8f@20e8.org
 END:VEVENT
 END:VCALENDAR
