@@ -2,9 +2,63 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260702
-DESCRIPTION:Dernier épisode (14) théorique calculé le 02/07/2026.
-SUMMARY:The Ramparts of Ice
-UID:52981eb6-04de-4fdd-b1d6-4193627f104b@5298.org
+DTSTART;VALUE=DATE:20260930
+DESCRIPTION:Dernier épisode (13) théorique calculé le 30/09/2026.
+SUMMARY:Clevatess Season 2
+UID:d8b38dca-cd86-4daf-9da8-492d2ac43290@d8b3.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260927
+DESCRIPTION:Dernier épisode (13) théorique calculé le 27/09/2026.
+SUMMARY:You and I Are Polar Opposites Season 2
+UID:7897f990-69e0-4dbb-980e-7b8c910f2a62@7897.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260923
+DESCRIPTION:Dernier épisode (12) théorique calculé le 23/09/2026.
+SUMMARY:Saga of Tanya the Evil Season 2
+UID:aecd66c9-96a0-4894-84fa-2f912e5d2399@aecd.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260909
+DESCRIPTION:Dernier épisode (12) théorique calculé le 09/09/2026.
+SUMMARY:Heroine? Saint? No\, I’m an All-Works Maid (And Proud of It)!
+UID:91559481-8ccc-48cc-834d-2cee01251a4c@9155.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260921
+DESCRIPTION:Dernier épisode (12) théorique calculé le 21/09/2026.
+SUMMARY:Skeleton Knight in Another World Season 2
+UID:fa7b8ccd-083d-4188-8b3c-a256054962ea@fa7b.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260925
+DESCRIPTION:Dernier épisode (13) théorique calculé le 25/09/2026.
+SUMMARY:HELL MODE: The Hardcore Gamer Dominates in Another World with Garbage Balancing Season 2
+UID:c0ab9a56-0a85-4694-9f4a-96aafc0e7b94@c0ab.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260920
+DESCRIPTION:Dernier épisode (11) théorique calculé le 20/09/2026.
+SUMMARY:Though I Am an Inept Villainess
+UID:1cb50273-78f7-4b8d-8eb8-00b3941f68d2@1cb5.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260923
+DESCRIPTION:Dernier épisode (12) théorique calculé le 23/09/2026.
+SUMMARY:Trapped in a Dating Sim: The World of Otome Games is Tough for Mobs Season 2
+UID:39291832-6355-43ca-9dd7-d078b4646d2f@3929.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260922
+DESCRIPTION:Dernier épisode (12) théorique calculé le 22/09/2026.
+SUMMARY:Young Ladies Don't Play Fighting Games
+UID:72d9e135-83a5-4243-bfa2-7d5fe5a39be4@72d9.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260921
+DESCRIPTION:Dernier épisode (12) théorique calculé le 21/09/2026.
+SUMMARY:A Livid Lady’s Guide to Getting Even: How I Crushed My Homeland with My Mighty Grimoires
+UID:91a7885e-3fdf-4399-a96a-39573e9923eb@91a7.org
 END:VEVENT
 END:VCALENDAR
