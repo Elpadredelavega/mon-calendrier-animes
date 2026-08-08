@@ -2,63 +2,63 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260927
-DESCRIPTION:Dernier épisode (13) théorique calculé le 27/09/2026.
-SUMMARY:You and I Are Polar Opposites Season 2
-UID:6be2f7f6-2fdf-497f-9215-ad36a7a03799@6be2.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260922
-DESCRIPTION:Dernier épisode (12) théorique calculé le 22/09/2026.
-SUMMARY:Young Ladies Don't Play Fighting Games
-UID:c11a58ce-ba76-4afd-84c8-8e93594da76b@c11a.org
-END:VEVENT
-BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260921
 DESCRIPTION:Dernier épisode (12) théorique calculé le 21/09/2026.
-SUMMARY:A Livid Lady’s Guide to Getting Even: How I Crushed My Homeland with My Mighty Grimoires
-UID:156962c3-e861-4946-9d0e-5b52186a9aca@1569.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260920
-DESCRIPTION:Dernier épisode (11) théorique calculé le 20/09/2026.
-SUMMARY:Though I Am an Inept Villainess
-UID:964e7455-aaa5-4c76-bbb3-e2f23517156c@964e.org
+SUMMARY:Skeleton Knight in Another World Season 2
+UID:1eaf6452-001f-4324-a9ca-93494eae7336@1eaf.org
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260923
 DESCRIPTION:Dernier épisode (12) théorique calculé le 23/09/2026.
 SUMMARY:Trapped in a Dating Sim: The World of Otome Games is Tough for Mobs Season 2
-UID:d0131bad-5630-44dc-af56-604d39b98973@d013.org
+UID:3aadf7a4-eed7-469f-8120-d2cc420fd2a8@3aad.org
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260923
-DESCRIPTION:Dernier épisode (12) théorique calculé le 23/09/2026.
-SUMMARY:Saga of Tanya the Evil Season 2
-UID:42219b6f-8a10-4cb9-9419-af750eb2697a@4221.org
+DTSTART;VALUE=DATE:20260920
+DESCRIPTION:Dernier épisode (11) théorique calculé le 20/09/2026.
+SUMMARY:Though I Am an Inept Villainess
+UID:3828e4af-2b0f-498f-9dba-31f3057fb83b@3828.org
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260930
-DESCRIPTION:Dernier épisode (13) théorique calculé le 30/09/2026.
-SUMMARY:Clevatess Season 2
-UID:5efecd8c-5954-4b2b-8cda-4a57ef444643@5efe.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260925
-DESCRIPTION:Dernier épisode (13) théorique calculé le 25/09/2026.
-SUMMARY:HELL MODE: The Hardcore Gamer Dominates in Another World with Garbage Balancing Season 2
-UID:963b700a-0fb0-4fc6-9c34-cf044e2187de@963b.org
+DTSTART;VALUE=DATE:20260922
+DESCRIPTION:Dernier épisode (12) théorique calculé le 22/09/2026.
+SUMMARY:Young Ladies Don't Play Fighting Games
+UID:56e667bb-f4e7-43be-a376-f3282d5e3ef0@56e6.org
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260921
 DESCRIPTION:Dernier épisode (12) théorique calculé le 21/09/2026.
-SUMMARY:Skeleton Knight in Another World Season 2
-UID:38241b57-6f51-4ec8-a673-f9756d4abf0a@3824.org
+SUMMARY:A Livid Lady’s Guide to Getting Even: How I Crushed My Homeland with My Mighty Grimoires
+UID:51a6b26e-3caf-40a1-bcec-8aeb502be019@51a6.org
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260909
 DESCRIPTION:Dernier épisode (12) théorique calculé le 09/09/2026.
 SUMMARY:Heroine? Saint? No\, I’m an All-Works Maid (And Proud of It)!
-UID:0f978c65-5e1d-4705-ada2-0bf4223a50cf@0f97.org
+UID:62f03fdb-10a8-4fe2-b79d-d56a16a8d1ad@62f0.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260925
+DESCRIPTION:Dernier épisode (13) théorique calculé le 25/09/2026.
+SUMMARY:HELL MODE: The Hardcore Gamer Dominates in Another World with Garbage Balancing Season 2
+UID:5fb1881f-4045-4d42-828d-4bfdcc6c5358@5fb1.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260927
+DESCRIPTION:Dernier épisode (13) théorique calculé le 27/09/2026.
+SUMMARY:You and I Are Polar Opposites Season 2
+UID:f4f213a5-1019-4a06-92be-4d0dfb0d82d1@f4f2.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260923
+DESCRIPTION:Dernier épisode (12) théorique calculé le 23/09/2026.
+SUMMARY:Saga of Tanya the Evil Season 2
+UID:8407bb96-28e6-4d2b-87a6-7c297d055415@8407.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260930
+DESCRIPTION:Dernier épisode (13) théorique calculé le 30/09/2026.
+SUMMARY:Clevatess Season 2
+UID:4ff50279-6945-4163-a6f5-ac7289369830@4ff5.org
 END:VEVENT
 END:VCALENDAR
