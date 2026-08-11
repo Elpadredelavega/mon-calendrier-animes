@@ -2,63 +2,63 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260921
-DESCRIPTION:Dernier épisode (12) théorique calculé le 21/09/2026.
-SUMMARY:A Livid Lady’s Guide to Getting Even: How I Crushed My Homeland with My Mighty Grimoires
-UID:e350f98d-266a-43f1-9c44-3c23d243288a@e350.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260920
-DESCRIPTION:Dernier épisode (11) théorique calculé le 20/09/2026.
-SUMMARY:Though I Am an Inept Villainess
-UID:23d16078-c98b-4399-90a0-69ea8e640ad5@23d1.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260927
-DESCRIPTION:Dernier épisode (13) théorique calculé le 27/09/2026.
-SUMMARY:You and I Are Polar Opposites Season 2
-UID:128d0037-876b-4945-b0be-918ffde96790@128d.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260909
-DESCRIPTION:Dernier épisode (12) théorique calculé le 09/09/2026.
-SUMMARY:Heroine? Saint? No\, I’m an All-Works Maid (And Proud of It)!
-UID:c3e71a25-b667-49da-8209-a4601b529008@c3e7.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260921
-DESCRIPTION:Dernier épisode (12) théorique calculé le 21/09/2026.
-SUMMARY:Skeleton Knight in Another World Season 2
-UID:8d6ccdc1-598d-4947-a7ec-2257465caebd@8d6c.org
+DTSTART;VALUE=DATE:20260930
+DESCRIPTION:Dernier épisode (13) théorique calculé le 30/09/2026.
+SUMMARY:Clevatess Season 2
+UID:56d0a0ec-0241-48ad-9def-ae2b741043a6@56d0.org
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260925
 DESCRIPTION:Dernier épisode (13) théorique calculé le 25/09/2026.
 SUMMARY:HELL MODE: The Hardcore Gamer Dominates in Another World with Garbage Balancing Season 2
-UID:c28293db-23ad-48c7-94ac-28659d01df94@c282.org
+UID:a27dee3a-1615-4ed4-936e-ba6e45176a37@a27d.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260927
+DESCRIPTION:Dernier épisode (13) théorique calculé le 27/09/2026.
+SUMMARY:You and I Are Polar Opposites Season 2
+UID:cb662383-226e-4bb0-90f3-1c30c42f55c0@cb66.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260920
+DESCRIPTION:Dernier épisode (11) théorique calculé le 20/09/2026.
+SUMMARY:Though I Am an Inept Villainess
+UID:5e6d9cf3-dda8-4217-b84c-6dfd1bb74b85@5e6d.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260921
+DESCRIPTION:Dernier épisode (12) théorique calculé le 21/09/2026.
+SUMMARY:A Livid Lady’s Guide to Getting Even: How I Crushed My Homeland with My Mighty Grimoires
+UID:61595c42-cd41-4525-8a9b-a0dc4c384d34@6159.org
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260922
 DESCRIPTION:Dernier épisode (12) théorique calculé le 22/09/2026.
 SUMMARY:Young Ladies Don't Play Fighting Games
-UID:26948064-422d-4125-a305-3878d2d9958e@2694.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260930
-DESCRIPTION:Dernier épisode (13) théorique calculé le 30/09/2026.
-SUMMARY:Clevatess Season 2
-UID:5e80e922-d150-4510-9e03-5668f8c72521@5e80.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260923
-DESCRIPTION:Dernier épisode (12) théorique calculé le 23/09/2026.
-SUMMARY:Saga of Tanya the Evil Season 2
-UID:0b34e52d-47c1-4c54-98a6-e74422a2b770@0b34.org
+UID:d61b62de-b6d1-404f-86e9-15fc77d94e10@d61b.org
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260923
 DESCRIPTION:Dernier épisode (12) théorique calculé le 23/09/2026.
 SUMMARY:Trapped in a Dating Sim: The World of Otome Games is Tough for Mobs Season 2
-UID:a40a60e9-d9cb-4804-b166-8e46c986da6b@a40a.org
+UID:b0d978f4-3b19-4133-800a-609f47083587@b0d9.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260921
+DESCRIPTION:Dernier épisode (12) théorique calculé le 21/09/2026.
+SUMMARY:Skeleton Knight in Another World Season 2
+UID:578a07f5-97d8-4f90-9c11-bb3c6b751955@578a.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260923
+DESCRIPTION:Dernier épisode (12) théorique calculé le 23/09/2026.
+SUMMARY:Saga of Tanya the Evil Season 2
+UID:8c42a71c-d29b-41d5-aa91-177687786995@8c42.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260909
+DESCRIPTION:Dernier épisode (12) théorique calculé le 09/09/2026.
+SUMMARY:Heroine? Saint? No\, I’m an All-Works Maid (And Proud of It)!
+UID:31cd7ab1-6f82-4ac8-ab6c-e61d22e1c0a7@31cd.org
 END:VEVENT
 END:VCALENDAR
