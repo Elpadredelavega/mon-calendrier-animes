@@ -2,81 +2,81 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260923
+DESCRIPTION:Dernier épisode (12) théorique calculé le 23/09/2026.
+SUMMARY:Trapped in a Dating Sim: The World of Otome Games is Tough for Mobs Season 2
+UID:27729b55-08c0-42f5-ba8e-099a3099ce59@2772.org
+END:VEVENT
+BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260921
 DESCRIPTION:Dernier épisode (12) théorique calculé le 21/09/2026.
 SUMMARY:A Livid Lady’s Guide to Getting Even: How I Crushed My Homeland with My Mighty Grimoires
-UID:0e922fd9-9bdd-41cc-b98d-0a862b60c2e8@0e92.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260930
-DESCRIPTION:Dernier épisode (13) théorique calculé le 30/09/2026.
-SUMMARY:Clevatess Season 2
-UID:601f7a3c-6289-41e2-bcd2-ad6b7420ba63@601f.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260923
-DESCRIPTION:Dernier épisode (12) théorique calculé le 23/09/2026.
-SUMMARY:Saga of Tanya the Evil Season 2
-UID:bf723985-d606-4f2f-bb96-d0d7d2b31919@bf72.org
+UID:edf73ccb-af83-463e-a77d-771164ad97dd@edf7.org
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260915
 DESCRIPTION:Dernier épisode (12) théorique calculé le 15/09/2026.
 SUMMARY:The Oblivious Saint Can't Contain Her Power
-UID:58cceb1c-cd66-4f85-97a5-18b4ebe073c0@58cc.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260923
-DESCRIPTION:Dernier épisode (12) théorique calculé le 23/09/2026.
-SUMMARY:Trapped in a Dating Sim: The World of Otome Games is Tough for Mobs Season 2
-UID:8e170eac-dee7-4bdf-a658-080327188b46@8e17.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260927
-DESCRIPTION:Dernier épisode (13) théorique calculé le 27/09/2026.
-SUMMARY:You and I Are Polar Opposites Season 2
-UID:40cdad29-5e35-488a-bcfb-d3e75d7dd38f@40cd.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260920
-DESCRIPTION:Dernier épisode (11) théorique calculé le 20/09/2026.
-SUMMARY:Though I Am an Inept Villainess
-UID:ca5e847d-7eb1-46b1-9bf0-a7bb9956fddb@ca5e.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260920
-DESCRIPTION:Dernier épisode (24) théorique calculé le 20/09/2026.
-SUMMARY:The Classroom of the Black Cat and a Witch
-UID:8aa12ae4-933c-4ac3-b981-b8c65a6b36d4@8aa1.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260923
-DESCRIPTION:Dernier épisode (12) théorique calculé le 23/09/2026.
-SUMMARY:From Old Country Bumpkin to Master Swordsman II
-UID:03bfcfcc-67b5-43b9-9d04-5baf4a3b0206@03bf.org
+UID:df72de37-fbfd-4461-a8e5-7c2310b3f34a@df72.org
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260922
 DESCRIPTION:Dernier épisode (12) théorique calculé le 22/09/2026.
 SUMMARY:Young Ladies Don't Play Fighting Games
-UID:2b095b91-fbeb-4b0a-bcd0-22eae01319c6@2b09.org
+UID:18cbd2eb-8cd3-4add-ba43-f57468d4f271@18cb.org
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260921
-DESCRIPTION:Dernier épisode (12) théorique calculé le 21/09/2026.
-SUMMARY:Skeleton Knight in Another World Season 2
-UID:03f9c3ba-ffb4-4813-8cb0-a5617730e66a@03f9.org
+DTSTART;VALUE=DATE:20260930
+DESCRIPTION:Dernier épisode (13) théorique calculé le 30/09/2026.
+SUMMARY:Clevatess Season 2
+UID:42346a0d-d21d-431f-a9d0-203a78d7d262@4234.org
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260909
-DESCRIPTION:Dernier épisode (12) théorique calculé le 09/09/2026.
-SUMMARY:Heroine? Saint? No\, I’m an All-Works Maid (And Proud of It)!
-UID:652e65b8-b12c-41d7-9999-2c51ea1d080c@652e.org
+DTSTART;VALUE=DATE:20260923
+DESCRIPTION:Dernier épisode (12) théorique calculé le 23/09/2026.
+SUMMARY:From Old Country Bumpkin to Master Swordsman II
+UID:3c48e46d-a283-4b6c-9430-362a68d5beaa@3c48.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260920
+DESCRIPTION:Dernier épisode (11) théorique calculé le 20/09/2026.
+SUMMARY:Though I Am an Inept Villainess
+UID:817ac2d9-7919-47c7-b110-2a0d48cfcfeb@817a.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260920
+DESCRIPTION:Dernier épisode (24) théorique calculé le 20/09/2026.
+SUMMARY:The Classroom of the Black Cat and a Witch
+UID:078ead88-3700-48bb-9e4c-2799896f034d@078e.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260923
+DESCRIPTION:Dernier épisode (12) théorique calculé le 23/09/2026.
+SUMMARY:Saga of Tanya the Evil Season 2
+UID:db92b3d4-0e9b-45e4-930a-d47bece0d431@db92.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260927
+DESCRIPTION:Dernier épisode (13) théorique calculé le 27/09/2026.
+SUMMARY:You and I Are Polar Opposites Season 2
+UID:02f9d9b4-f075-42ee-9bec-ac9648262833@02f9.org
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260925
 DESCRIPTION:Dernier épisode (13) théorique calculé le 25/09/2026.
 SUMMARY:HELL MODE: The Hardcore Gamer Dominates in Another World with Garbage Balancing Season 2
-UID:5b09878a-85ff-4c66-b827-fff9bc6f55ba@5b09.org
+UID:960bd7c3-7576-4fb6-9a88-55fc3fda20a5@960b.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260909
+DESCRIPTION:Dernier épisode (12) théorique calculé le 09/09/2026.
+SUMMARY:Heroine? Saint? No\, I’m an All-Works Maid (And Proud of It)!
+UID:fee35219-7254-416a-bfca-e9420ac8c0f6@fee3.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260921
+DESCRIPTION:Dernier épisode (12) théorique calculé le 21/09/2026.
+SUMMARY:Skeleton Knight in Another World Season 2
+UID:65cf5ead-10b4-408f-b766-a4fbd04739ef@65cf.org
 END:VEVENT
 END:VCALENDAR
