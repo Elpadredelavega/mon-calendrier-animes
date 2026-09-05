@@ -2,141 +2,141 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260909
-DESCRIPTION:Dernier épisode (12) théorique calculé le 09/09/2026.
-SUMMARY:The Villager of Level 999
-UID:e0ce86c0-d964-438f-89ac-fd4e155919f9@e0ce.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260925
-DESCRIPTION:Dernier épisode (13) théorique calculé le 25/09/2026.
-SUMMARY:HELL MODE: The Hardcore Gamer Dominates in Another World with Garbage Balancing Season 2
-UID:0ca0285c-7ee2-4481-a304-0892905ae2b5@0ca0.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260922
-DESCRIPTION:Dernier épisode (12) théorique calculé le 22/09/2026.
-SUMMARY:Young Ladies Don't Play Fighting Games
-UID:757bedc9-62dd-4aa9-95a7-bdd406d90e11@757b.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260918
-DESCRIPTION:Dernier épisode (12) théorique calculé le 18/09/2026.
-SUMMARY:I Became a Legend After My 10 Year-Long Last Stand
-UID:37f74689-aaa9-4a7c-a20a-2fbb7e612bde@37f7.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260920
-DESCRIPTION:Dernier épisode (12) théorique calculé le 20/09/2026.
-SUMMARY:The 100 Girlfriends Who Really\, Really\, Really\, Really\, REALLY Love You Season 3
-UID:43185c12-cc22-43ac-b8fd-ff03125a90c8@4318.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260924
-DESCRIPTION:Dernier épisode (12) théorique calculé le 24/09/2026.
-SUMMARY:Smoking Behind the Supermarket with You
-UID:bb067204-7325-4e92-ab7c-b489753fcaf3@bb06.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260919
-DESCRIPTION:Dernier épisode (12) théorique calculé le 19/09/2026.
-SUMMARY:The Duke’s Son Claims He Won’t Love Me Yet Showers Me with Adoration
-UID:6724c24f-a254-43f9-ba07-5f23aa3a4232@6724.org
-END:VEVENT
-BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260923
 DESCRIPTION:Dernier épisode (12) théorique calculé le 23/09/2026.
-SUMMARY:Trapped in a Dating Sim: The World of Otome Games is Tough for Mobs Season 2
-UID:50202c1f-f410-476e-beff-b9ce333e454f@5020.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260915
-DESCRIPTION:Dernier épisode (12) théorique calculé le 15/09/2026.
-SUMMARY:The Oblivious Saint Can't Contain Her Power
-UID:f582c9fd-e160-4ff4-86f1-589b3edad162@f582.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260909
-DESCRIPTION:Dernier épisode (12) théorique calculé le 09/09/2026.
-SUMMARY:Heroine? Saint? No\, I’m an All-Works Maid (And Proud of It)!
-UID:68fb983f-2f94-4c75-b1a5-e06c39b7d07b@68fb.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260930
-DESCRIPTION:Dernier épisode (13) théorique calculé le 30/09/2026.
-SUMMARY:Clevatess Season 2
-UID:2c4c3f9d-0e40-4831-8a56-a1ca91e089a4@2c4c.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260921
-DESCRIPTION:Dernier épisode (12) théorique calculé le 21/09/2026.
-SUMMARY:Skeleton Knight in Another World Season 2
-UID:88a37c18-06ae-4196-b04b-8071a85bc5c0@88a3.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260920
-DESCRIPTION:Dernier épisode (24) théorique calculé le 20/09/2026.
-SUMMARY:The Classroom of the Black Cat and a Witch
-UID:d247107d-8237-4af6-bc4c-e69c1baccf89@d247.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260917
-DESCRIPTION:Dernier épisode (12) théorique calculé le 17/09/2026.
-SUMMARY:KAIJU GIRL CARAMELISE
-UID:0cd9752d-2c0f-4de8-99c0-9564ec3554c5@0cd9.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260921
-DESCRIPTION:Dernier épisode (12) théorique calculé le 21/09/2026.
-SUMMARY:A Livid Lady’s Guide to Getting Even: How I Crushed My Homeland with My Mighty Grimoires
-UID:b0640790-b6cd-4bce-9c14-3cc0dbd5b8f7@b064.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260920
-DESCRIPTION:Dernier épisode (11) théorique calculé le 20/09/2026.
-SUMMARY:Though I Am an Inept Villainess
-UID:4807ad9f-a727-4700-bb90-a624139a4036@4807.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260929
-DESCRIPTION:Dernier épisode (13) théorique calculé le 29/09/2026.
-SUMMARY:I Want to Love You Till Your Dying Day
-UID:7b723f0e-e15a-49d3-894e-b8bc346d2462@7b72.org
+SUMMARY:From Old Country Bumpkin to Master Swordsman II
+UID:298d5378-5b57-417d-aab4-6da10b0c2063@298d.org
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260918
 DESCRIPTION:Dernier épisode (12) théorique calculé le 18/09/2026.
 SUMMARY:The Frontier Lord Begins with Zero Subjects
-UID:949928b1-7f44-498f-986f-12243bd07a22@9499.org
+UID:5ca7d8d7-8c78-4bed-94f3-2949a5781c8d@5ca7.org
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260927
-DESCRIPTION:Dernier épisode (14) théorique calculé le 27/09/2026.
-SUMMARY:Mushoku Tensei: Jobless Reincarnation Season 3
-UID:4d341a59-a266-4b1d-937d-8ac4c2d1c4fe@4d34.org
+DTSTART;VALUE=DATE:20260924
+DESCRIPTION:Dernier épisode (12) théorique calculé le 24/09/2026.
+SUMMARY:Smoking Behind the Supermarket with You
+UID:b15c709d-b649-42f0-9f5d-62b919e6dc4b@b15c.org
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260921
 DESCRIPTION:Dernier épisode (12) théorique calculé le 21/09/2026.
 SUMMARY:The Forsaken Saintess and Her Foodie Roadtrip in Another World
-UID:37f61c3a-3489-4aab-831e-de322100ddef@37f6.org
+UID:f287aae0-2b83-4c84-a718-40d91cea6bff@f287.org
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260923
-DESCRIPTION:Dernier épisode (12) théorique calculé le 23/09/2026.
-SUMMARY:From Old Country Bumpkin to Master Swordsman II
-UID:d0c021aa-8c96-4fc0-8b7d-34fa22c56ac3@d0c0.org
+DTSTART;VALUE=DATE:20260922
+DESCRIPTION:Dernier épisode (12) théorique calculé le 22/09/2026.
+SUMMARY:Young Ladies Don't Play Fighting Games
+UID:11829ae0-22a3-4fbd-9979-bd67d2094d54@1182.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260921
+DESCRIPTION:Dernier épisode (12) théorique calculé le 21/09/2026.
+SUMMARY:Skeleton Knight in Another World Season 2
+UID:25592dd3-2141-4697-9bde-a8b86c001bbc@2559.org
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260927
-DESCRIPTION:Dernier épisode (13) théorique calculé le 27/09/2026.
-SUMMARY:You and I Are Polar Opposites Season 2
-UID:be9a46e0-2109-464a-8011-1ed5390a4695@be9a.org
+DESCRIPTION:Dernier épisode (14) théorique calculé le 27/09/2026.
+SUMMARY:Mushoku Tensei: Jobless Reincarnation Season 3
+UID:610c73e6-834d-43c2-8ba0-b57238892530@610c.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260917
+DESCRIPTION:Dernier épisode (12) théorique calculé le 17/09/2026.
+SUMMARY:KAIJU GIRL CARAMELISE
+UID:2a30e3d3-61d4-489b-8978-705646fe42b2@2a30.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260920
+DESCRIPTION:Dernier épisode (11) théorique calculé le 20/09/2026.
+SUMMARY:Though I Am an Inept Villainess
+UID:fe55aea8-d997-4f0e-bd69-9b6b8a935e6d@fe55.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260930
+DESCRIPTION:Dernier épisode (13) théorique calculé le 30/09/2026.
+SUMMARY:Clevatess Season 2
+UID:675192de-3232-4de5-aec0-99e3b2072b63@6751.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260920
+DESCRIPTION:Dernier épisode (12) théorique calculé le 20/09/2026.
+SUMMARY:The 100 Girlfriends Who Really\, Really\, Really\, Really\, REALLY Love You Season 3
+UID:7d105655-adac-4404-aa06-76abbc7bfaf1@7d10.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260909
+DESCRIPTION:Dernier épisode (12) théorique calculé le 09/09/2026.
+SUMMARY:Heroine? Saint? No\, I’m an All-Works Maid (And Proud of It)!
+UID:5f1308c6-be70-4fac-b897-0e2c4a22a8a4@5f13.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260915
+DESCRIPTION:Dernier épisode (12) théorique calculé le 15/09/2026.
+SUMMARY:The Oblivious Saint Can't Contain Her Power
+UID:c6417bc3-3ac4-4775-8d0e-4ed33cb0901c@c641.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260909
+DESCRIPTION:Dernier épisode (12) théorique calculé le 09/09/2026.
+SUMMARY:The Villager of Level 999
+UID:a2209332-c159-4fb5-9ab2-a5c2e4098026@a220.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260929
+DESCRIPTION:Dernier épisode (13) théorique calculé le 29/09/2026.
+SUMMARY:I Want to Love You Till Your Dying Day
+UID:c5538069-138e-4f77-b9a6-f81ed0cf43ef@c553.org
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260923
 DESCRIPTION:Dernier épisode (12) théorique calculé le 23/09/2026.
 SUMMARY:Saga of Tanya the Evil Season 2
-UID:d185d306-c694-4bf6-b1e4-5cd8216b1148@d185.org
+UID:3685fad9-f331-40ad-ad0e-87aa3fbf377d@3685.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260919
+DESCRIPTION:Dernier épisode (12) théorique calculé le 19/09/2026.
+SUMMARY:The Duke’s Son Claims He Won’t Love Me Yet Showers Me with Adoration
+UID:b26273e9-041f-46ff-9c41-e0ec589944e2@b262.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260927
+DESCRIPTION:Dernier épisode (13) théorique calculé le 27/09/2026.
+SUMMARY:You and I Are Polar Opposites Season 2
+UID:b1b0bc84-9391-4a7a-9bfe-8a08f2e56cef@b1b0.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260923
+DESCRIPTION:Dernier épisode (12) théorique calculé le 23/09/2026.
+SUMMARY:Trapped in a Dating Sim: The World of Otome Games is Tough for Mobs Season 2
+UID:9e2c7a73-88a9-4c52-95d0-567ceeddfb04@9e2c.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260921
+DESCRIPTION:Dernier épisode (12) théorique calculé le 21/09/2026.
+SUMMARY:A Livid Lady’s Guide to Getting Even: How I Crushed My Homeland with My Mighty Grimoires
+UID:b9007773-85f0-494a-befa-e0d597fd6420@b900.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260920
+DESCRIPTION:Dernier épisode (24) théorique calculé le 20/09/2026.
+SUMMARY:The Classroom of the Black Cat and a Witch
+UID:68c01fa2-1ae8-4390-96cf-e4fdf9b52201@68c0.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260918
+DESCRIPTION:Dernier épisode (12) théorique calculé le 18/09/2026.
+SUMMARY:I Became a Legend After My 10 Year-Long Last Stand
+UID:be40af08-dd90-4438-bb74-d32658211325@be40.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260925
+DESCRIPTION:Dernier épisode (13) théorique calculé le 25/09/2026.
+SUMMARY:HELL MODE: The Hardcore Gamer Dominates in Another World with Garbage Balancing Season 2
+UID:307609d8-f68f-4c08-a657-d625182c7c35@3076.org
 END:VEVENT
 END:VCALENDAR
