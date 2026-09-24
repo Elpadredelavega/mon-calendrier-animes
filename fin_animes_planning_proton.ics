@@ -5,54 +5,36 @@ BEGIN:VEVENT
 DTSTART;VALUE=DATE:20261004
 DESCRIPTION:Dernier épisode (13) théorique calculé le 04/10/2026.
 SUMMARY:You and I Are Polar Opposites Season 2
-UID:e277cbac-0d5b-45fe-bb3d-c696e48dff9c@e277.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260923
-DESCRIPTION:Dernier épisode (12) théorique calculé le 23/09/2026.
-SUMMARY:Trapped in a Dating Sim: The World of Otome Games is Tough for Mobs Season 2
-UID:13acc056-fde0-459f-a991-009b2b8d7ab8@13ac.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260923
-DESCRIPTION:Dernier épisode (12) théorique calculé le 23/09/2026.
-SUMMARY:From Old Country Bumpkin to Master Swordsman II
-UID:a73c7834-b26f-4312-8790-480c093b1723@a73c.org
+UID:4ae016d3-2df6-4f63-b2d5-f2577d5c6bc6@4ae0.org
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260929
 DESCRIPTION:Dernier épisode (13) théorique calculé le 29/09/2026.
 SUMMARY:I Want to Love You Till Your Dying Day
-UID:8c2a9613-1175-44ab-a3f0-eb305b9083b1@8c2a.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260923
-DESCRIPTION:Dernier épisode (12) théorique calculé le 23/09/2026.
-SUMMARY:Saga of Tanya the Evil Season 2
-UID:eb4e9d3e-b9a0-43ce-82e4-afc6897c83c1@eb4e.org
+UID:45baa033-119b-41a1-a2b1-3e34576b4b7d@45ba.org
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260930
 DESCRIPTION:Dernier épisode (13) théorique calculé le 30/09/2026.
 SUMMARY:Clevatess Season 2
-UID:718d20be-bacf-4030-a561-6dcf04ad92db@718d.org
+UID:ffce3314-9ce5-48df-9112-81ced25ff282@ffce.org
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260925
 DESCRIPTION:Dernier épisode (13) théorique calculé le 25/09/2026.
 SUMMARY:HELL MODE: The Hardcore Gamer Dominates in Another World with Garbage Balancing Season 2
-UID:e9fae219-56e5-44d6-bdfb-289a9b0716d5@e9fa.org
+UID:69fa9114-617f-4b83-9023-22250b247646@69fa.org
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260927
 DESCRIPTION:Dernier épisode (14) théorique calculé le 27/09/2026.
 SUMMARY:Mushoku Tensei: Jobless Reincarnation Season 3
-UID:3e9ba71c-78ea-4071-92a7-53d7aab42e63@3e9b.org
+UID:6a632f03-bf17-47b2-b714-0cc6f2551bca@6a63.org
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260924
 DESCRIPTION:Dernier épisode (12) théorique calculé le 24/09/2026.
 SUMMARY:Smoking Behind the Supermarket with You
-UID:1886085e-f842-42ea-b8ab-53a7379198eb@1886.org
+UID:808f31a9-5b2d-4876-a7f2-9d35221acac4@808f.org
 END:VEVENT
 END:VCALENDAR
