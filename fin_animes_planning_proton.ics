@@ -2,39 +2,33 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
-DTSTART;VALUE=DATE:20261004
-DESCRIPTION:Dernier épisode (13) théorique calculé le 04/10/2026.
-SUMMARY:You and I Are Polar Opposites Season 2
-UID:4ae016d3-2df6-4f63-b2d5-f2577d5c6bc6@4ae0.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260929
-DESCRIPTION:Dernier épisode (13) théorique calculé le 29/09/2026.
-SUMMARY:I Want to Love You Till Your Dying Day
-UID:45baa033-119b-41a1-a2b1-3e34576b4b7d@45ba.org
+DTSTART;VALUE=DATE:20260925
+DESCRIPTION:Dernier épisode (13) théorique calculé le 25/09/2026.
+SUMMARY:HELL MODE: The Hardcore Gamer Dominates in Another World with Garbage Balancing Season 2
+UID:3ddf7b8e-3851-4556-b418-82b5baff5667@3ddf.org
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260930
 DESCRIPTION:Dernier épisode (13) théorique calculé le 30/09/2026.
 SUMMARY:Clevatess Season 2
-UID:ffce3314-9ce5-48df-9112-81ced25ff282@ffce.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260925
-DESCRIPTION:Dernier épisode (13) théorique calculé le 25/09/2026.
-SUMMARY:HELL MODE: The Hardcore Gamer Dominates in Another World with Garbage Balancing Season 2
-UID:69fa9114-617f-4b83-9023-22250b247646@69fa.org
+UID:2f4dc609-dd8f-449c-8d06-c7262f6bdfd7@2f4d.org
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260927
 DESCRIPTION:Dernier épisode (14) théorique calculé le 27/09/2026.
 SUMMARY:Mushoku Tensei: Jobless Reincarnation Season 3
-UID:6a632f03-bf17-47b2-b714-0cc6f2551bca@6a63.org
+UID:a1776fea-9d61-4685-a2f1-9bcb8fced75d@a177.org
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260924
-DESCRIPTION:Dernier épisode (12) théorique calculé le 24/09/2026.
-SUMMARY:Smoking Behind the Supermarket with You
-UID:808f31a9-5b2d-4876-a7f2-9d35221acac4@808f.org
+DTSTART;VALUE=DATE:20260929
+DESCRIPTION:Dernier épisode (13) théorique calculé le 29/09/2026.
+SUMMARY:I Want to Love You Till Your Dying Day
+UID:4cbadbe1-d047-4013-9d75-6e0deb5d57fc@4cba.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20261004
+DESCRIPTION:Dernier épisode (13) théorique calculé le 04/10/2026.
+SUMMARY:You and I Are Polar Opposites Season 2
+UID:bd30c9ca-a644-4b45-b0b6-cea14a03f806@bd30.org
 END:VEVENT
 END:VCALENDAR
