@@ -2,33 +2,27 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260925
-DESCRIPTION:Dernier épisode (13) théorique calculé le 25/09/2026.
-SUMMARY:HELL MODE: The Hardcore Gamer Dominates in Another World with Garbage Balancing Season 2
-UID:3ddf7b8e-3851-4556-b418-82b5baff5667@3ddf.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260930
-DESCRIPTION:Dernier épisode (13) théorique calculé le 30/09/2026.
-SUMMARY:Clevatess Season 2
-UID:2f4dc609-dd8f-449c-8d06-c7262f6bdfd7@2f4d.org
-END:VEVENT
-BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260927
 DESCRIPTION:Dernier épisode (14) théorique calculé le 27/09/2026.
 SUMMARY:Mushoku Tensei: Jobless Reincarnation Season 3
-UID:a1776fea-9d61-4685-a2f1-9bcb8fced75d@a177.org
+UID:4d17ba2f-3ebe-4bf0-b9d1-0b8b21992a3f@4d17.org
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260929
 DESCRIPTION:Dernier épisode (13) théorique calculé le 29/09/2026.
 SUMMARY:I Want to Love You Till Your Dying Day
-UID:4cbadbe1-d047-4013-9d75-6e0deb5d57fc@4cba.org
+UID:5d896425-2ca8-46c5-9d43-b84017c868e6@5d89.org
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20261004
 DESCRIPTION:Dernier épisode (13) théorique calculé le 04/10/2026.
 SUMMARY:You and I Are Polar Opposites Season 2
-UID:bd30c9ca-a644-4b45-b0b6-cea14a03f806@bd30.org
+UID:66973cc6-0a62-4ff0-8510-b9bfb0def918@6697.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260930
+DESCRIPTION:Dernier épisode (13) théorique calculé le 30/09/2026.
+SUMMARY:Clevatess Season 2
+UID:e23d9818-2358-455f-9334-2e0eb9a813cc@e23d.org
 END:VEVENT
 END:VCALENDAR
