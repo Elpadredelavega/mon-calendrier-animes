@@ -5,24 +5,24 @@ BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260927
 DESCRIPTION:Dernier épisode (14) théorique calculé le 27/09/2026.
 SUMMARY:Mushoku Tensei: Jobless Reincarnation Season 3
-UID:4d17ba2f-3ebe-4bf0-b9d1-0b8b21992a3f@4d17.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260929
-DESCRIPTION:Dernier épisode (13) théorique calculé le 29/09/2026.
-SUMMARY:I Want to Love You Till Your Dying Day
-UID:5d896425-2ca8-46c5-9d43-b84017c868e6@5d89.org
+UID:5f63392c-6a26-43e0-b94f-58dc180af805@5f63.org
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20261004
 DESCRIPTION:Dernier épisode (13) théorique calculé le 04/10/2026.
 SUMMARY:You and I Are Polar Opposites Season 2
-UID:66973cc6-0a62-4ff0-8510-b9bfb0def918@6697.org
+UID:073be1ec-a87b-47c4-a5d0-3992fb0f3943@073b.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260929
+DESCRIPTION:Dernier épisode (13) théorique calculé le 29/09/2026.
+SUMMARY:I Want to Love You Till Your Dying Day
+UID:825688ae-a4d4-47c9-a30b-7081d64d8d4b@8256.org
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260930
 DESCRIPTION:Dernier épisode (13) théorique calculé le 30/09/2026.
 SUMMARY:Clevatess Season 2
-UID:e23d9818-2358-455f-9334-2e0eb9a813cc@e23d.org
+UID:a882be8f-5382-479b-8aec-4aa14b1e0f81@a882.org
 END:VEVENT
 END:VCALENDAR
