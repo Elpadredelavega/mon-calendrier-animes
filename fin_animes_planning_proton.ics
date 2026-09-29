@@ -2,21 +2,21 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260929
-DESCRIPTION:Dernier épisode (13) théorique calculé le 29/09/2026.
-SUMMARY:I Want to Love You Till Your Dying Day
-UID:9a556f33-70a7-46f5-9bd4-18b4859e4148@9a55.org
+DTSTART;VALUE=DATE:20261004
+DESCRIPTION:Dernier épisode (13) théorique calculé le 04/10/2026.
+SUMMARY:You and I Are Polar Opposites Season 2
+UID:6d4836ad-21f6-474f-b2a1-cc01680d200f@6d48.org
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260930
 DESCRIPTION:Dernier épisode (13) théorique calculé le 30/09/2026.
 SUMMARY:Clevatess Season 2
-UID:7323f195-33ed-4841-b180-2c6bb901bbe1@7323.org
+UID:429bca9c-2208-47cf-9903-806ae94ce7c9@429b.org
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;VALUE=DATE:20261004
-DESCRIPTION:Dernier épisode (13) théorique calculé le 04/10/2026.
-SUMMARY:You and I Are Polar Opposites Season 2
-UID:9a8e8780-7936-49ae-a7ee-a12276a43daf@9a8e.org
+DTSTART;VALUE=DATE:20260929
+DESCRIPTION:Dernier épisode (13) théorique calculé le 29/09/2026.
+SUMMARY:I Want to Love You Till Your Dying Day
+UID:38bc15ce-abd4-4e25-9559-5fe09168155f@38bc.org
 END:VEVENT
 END:VCALENDAR
