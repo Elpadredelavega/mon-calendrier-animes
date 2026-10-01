@@ -5,12 +5,6 @@ BEGIN:VEVENT
 DTSTART;VALUE=DATE:20261004
 DESCRIPTION:Dernier épisode (13) théorique calculé le 04/10/2026.
 SUMMARY:You and I Are Polar Opposites Season 2
-UID:fdaad9d8-691a-4080-823c-71a64f0ff3bd@fdaa.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260930
-DESCRIPTION:Dernier épisode (13) théorique calculé le 30/09/2026.
-SUMMARY:Clevatess Season 2
-UID:0b3e93ac-b8e5-45ca-b66f-e829deeb0f86@0b3e.org
+UID:73ae5f13-29c8-4225-9fd6-c1ce67506bc8@73ae.org
 END:VEVENT
 END:VCALENDAR
