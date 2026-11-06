@@ -5,84 +5,84 @@ BEGIN:VEVENT
 DTSTART;VALUE=DATE:20261219
 DESCRIPTION:Dernier épisode (12) théorique calculé le 19/12/2026.
 SUMMARY:Even the Student Council Has Its Holes!
-UID:415aaba0-9a21-4884-8c9c-3cd6395f35a2@415a.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20261224
-DESCRIPTION:Dernier épisode (12) théorique calculé le 24/12/2026.
-SUMMARY:Girls und Panzer: Motto Love Love Sakusen desu!
-UID:90acd7f4-1dfa-42b7-94b1-ffde538867c1@90ac.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20261216
-DESCRIPTION:Dernier épisode (12) théorique calculé le 16/12/2026.
-SUMMARY:Reincarnated as a Sword Season 2
-UID:f9c759dd-8675-4f0b-aea7-0fe6bf1f13f7@f9c7.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20261227
-DESCRIPTION:Dernier épisode (13) théorique calculé le 27/12/2026.
-SUMMARY:Reborn as a Space Mercenary: I Woke Up Piloting the Strongest Starship!
-UID:20fe3dd2-b8d7-4a5c-bf86-8bfdaddcd1de@20fe.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20261223
-DESCRIPTION:Dernier épisode (12) théorique calculé le 23/12/2026.
-SUMMARY:Sasaki and Peeps Season 2
-UID:4541d1c5-ad55-45c7-a0a5-b319e53bf6d9@4541.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20261218
-DESCRIPTION:Dernier épisode (12) théorique calculé le 18/12/2026.
-SUMMARY:The Apothecary Diaries Season 3
-UID:6a11742c-d770-4057-9cfb-37fe10cad845@6a11.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20261220
-DESCRIPTION:Dernier épisode (12) théorique calculé le 20/12/2026.
-SUMMARY:Even Though I'm a Super Timid Noble Girl\, I Accepted the Bet From My Cunning Fiancé
-UID:90855aaa-da27-4864-9588-815f4fa65b64@9085.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20261219
-DESCRIPTION:Dernier épisode (12) théorique calculé le 19/12/2026.
-SUMMARY:Romelia War Chronicle
-UID:643d8eae-5e38-4cc0-96c5-bba6b2fbdcd7@643d.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20261220
-DESCRIPTION:Dernier épisode (12) théorique calculé le 20/12/2026.
-SUMMARY:I'm Dating a Dark Summoner
-UID:d0c12b86-0da0-40f5-a34c-d8ed8b054244@d0c1.org
+UID:7ad035a1-999c-4795-8139-3d92592d85f8@7ad0.org
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20261224
 DESCRIPTION:Dernier épisode (26) théorique calculé le 24/12/2026.
 SUMMARY:The Exiled Heavy Knight Knows How to Game the System
-UID:bacd1d3f-c1e7-4cd6-a1e2-47c54b5a24fa@bacd.org
+UID:836bbd1c-dbe1-490a-b396-2eed9edbba1a@836b.org
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;VALUE=DATE:20261210
-DESCRIPTION:Dernier épisode (1) théorique calculé le 10/12/2026.
-SUMMARY:The Apothecary Diaries: The Late Lady’s Treasure
-UID:94cb9d63-5121-412f-8c30-c05b75bc749e@94cb.org
+DTSTART;VALUE=DATE:20261223
+DESCRIPTION:Dernier épisode (12) théorique calculé le 23/12/2026.
+SUMMARY:Sasaki and Peeps Season 2
+UID:fbed81e6-d299-4125-84e6-8d7b40f55837@fbed.org
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;VALUE=DATE:20261221
-DESCRIPTION:Dernier épisode (12) théorique calculé le 21/12/2026.
-SUMMARY:Hello\, I am a Witch and my Crush Wants me to Make a Love Potion!
-UID:700749e2-df8a-4d1e-9470-09d9251841ea@7007.org
+DTSTART;VALUE=DATE:20261216
+DESCRIPTION:Dernier épisode (12) théorique calculé le 16/12/2026.
+SUMMARY:Reincarnated as a Sword Season 2
+UID:370c40f0-18d9-4969-9768-520ce61eaee2@370c.org
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;VALUE=DATE:20261219
-DESCRIPTION:Dernier épisode (13) théorique calculé le 19/12/2026.
-SUMMARY:Magical Explorer
-UID:8e9fca79-070b-431c-ba91-62d4784d93e5@8e9f.org
+DTSTART;VALUE=DATE:20261220
+DESCRIPTION:Dernier épisode (12) théorique calculé le 20/12/2026.
+SUMMARY:I'm Dating a Dark Summoner
+UID:ac9d529e-0315-4cba-9123-e487b22cf0bf@ac9d.org
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20270323
 DESCRIPTION:Dernier épisode (25) théorique calculé le 23/03/2027.
 SUMMARY:Nia Liston: The Merciless Maiden
-UID:aad8eb47-4a01-4b69-85de-fb7c9b731ccd@aad8.org
+UID:7affbe7f-e834-485a-b15a-063043454ae1@7aff.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20261210
+DESCRIPTION:Dernier épisode (1) théorique calculé le 10/12/2026.
+SUMMARY:The Apothecary Diaries: The Late Lady’s Treasure
+UID:a522af6d-7e60-4fd0-8706-33a180f04a9e@a522.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20261219
+DESCRIPTION:Dernier épisode (13) théorique calculé le 19/12/2026.
+SUMMARY:Magical Explorer
+UID:544dba38-f1bb-4e0f-b065-47e1b4f07195@544d.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20261224
+DESCRIPTION:Dernier épisode (12) théorique calculé le 24/12/2026.
+SUMMARY:Girls und Panzer: Motto Love Love Sakusen desu!
+UID:c9dc1055-a28f-48c3-b433-b5fe0c19bed8@c9dc.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20261227
+DESCRIPTION:Dernier épisode (13) théorique calculé le 27/12/2026.
+SUMMARY:Reborn as a Space Mercenary: I Woke Up Piloting the Strongest Starship!
+UID:f03597cd-1725-4367-b719-f9880a591bdd@f035.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20261219
+DESCRIPTION:Dernier épisode (12) théorique calculé le 19/12/2026.
+SUMMARY:Romelia War Chronicle
+UID:afe87bdc-29e3-4e9c-8243-cf4da63355e6@afe8.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20261221
+DESCRIPTION:Dernier épisode (12) théorique calculé le 21/12/2026.
+SUMMARY:Hello\, I am a Witch and my Crush Wants me to Make a Love Potion!
+UID:ebd64f95-ce86-44c9-8ca9-5e754c110fe0@ebd6.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20261218
+DESCRIPTION:Dernier épisode (12) théorique calculé le 18/12/2026.
+SUMMARY:The Apothecary Diaries Season 3
+UID:2e57667b-fe67-485e-ae3d-3df071db74d7@2e57.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20261220
+DESCRIPTION:Dernier épisode (12) théorique calculé le 20/12/2026.
+SUMMARY:Even Though I'm a Super Timid Noble Girl\, I Accepted the Bet From My Cunning Fiancé
+UID:c66d3fe5-2013-429c-80e1-a44a5435fc08@c66d.org
 END:VEVENT
 END:VCALENDAR
